@@ -38,9 +38,9 @@ To develop a comprehensive credit card weekly dashboard that provides real-time 
 - I used bar charts, line chart and table also.
 
 # Dashboard
-<img width="608" height="344" alt="Screenshot_Credit_Card_Customer_Report" src="https://github.com/user-attachments/assets/fbcc1302-e1f4-4a55-a3d1-fd9a5ef36c52" />
 ## This is Credit Card Customer Report
-
-<img width="609" height="344" alt="Screenshot_Credit_Card_Report" src="https://github.com/user-attachments/assets/0ea795f0-bf4b-46be-a8c5-327e1d52b4e8" />
+<img width="608" height="344" alt="Screenshot_Credit_Card_Customer_Report" src="https://github.com/user-attachments/assets/fbcc1302-e1f4-4a55-a3d1-fd9a5ef36c52" />
+<br>
 ## This is Credit Card Report
+<img width="609" height="344" alt="Screenshot_Credit_Card_Report" src="https://github.com/user-attachments/assets/0ea795f0-bf4b-46be-a8c5-327e1d52b4e8" />
 
