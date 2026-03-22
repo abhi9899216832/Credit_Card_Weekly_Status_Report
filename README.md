@@ -44,6 +44,24 @@ To develop a comprehensive credit card weekly dashboard that provides real-time 
 <img width="609" height="344" alt="Screenshot_Credit_Card_Report" src="https://github.com/user-attachments/assets/0ea795f0-bf4b-46be-a8c5-327e1d52b4e8" />
 
 
+# DAX Queries
+AgeGroup = SWITCH(
+TRUE(),
+'public cust_detail'[customer_age] < 30, "20-30",
+'public cust_detail'[customer_age] >= 30 && 'public cust_detail'[customer_age] < 40, "30-40",
+'public cust_detail'[customer_age] >= 40 && 'public cust_detail'[customer_age] < 50, "40-50",
+'public cust_detail'[customer_age] >= 50 && 'public cust_detail'[customer_age] < 60, "50-60",
+'public cust_detail'[customer_age] >= 60, "60+",
+"unknown"
+)
+IncomeGroup = SWITCH(
+TRUE(),
+'public cust_detail'[income] < 35000, "Low",
+'public cust_detail'[income] >= 35000 && 'public cust_detail'[income] <70000, "Med",
+'public cust_detail'[income] >= 70000, "High",
+"unknown"
+)
+
 # Project Conclusion (Points)
 - Successfully developed a Credit Card Financial Weekly Dashboard using Power BI.
 - Integrated and processed data from SQL database for accurate analysis.
