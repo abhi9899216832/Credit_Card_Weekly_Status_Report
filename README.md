@@ -40,8 +40,6 @@ To develop a comprehensive credit card weekly dashboard that provides real-time 
 # Dashboard
 ## This is Credit Card Customer Report
 <img width="608" height="344" alt="Screenshot_Credit_Card_Customer_Report" src="https://github.com/user-attachments/assets/fbcc1302-e1f4-4a55-a3d1-fd9a5ef36c52" />
-<br>
-# Dashboard 2
-## This is Credit Card Transaction Report
+
 <img width="609" height="344" alt="Screenshot_Credit_Card_Report" src="https://github.com/user-attachments/assets/0ea795f0-bf4b-46be-a8c5-327e1d52b4e8" />
 
