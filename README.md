@@ -9,3 +9,8 @@ To develop a comprehensive credit card weekly dashboard that provides real-time 
 ## After completing the Dashboard more data to add in our Dataset.
 <a href="https://github.com/abhi9899216832/Credit_Card_Weekly_Status_Report/blob/main/cc_add.csv">Credit Card add</a><br>
 <a href="https://github.com/abhi9899216832/Credit_Card_Weekly_Status_Report/blob/main/customer.csv">Customer add</a>
+<br>
+## Credit card financial dashboard using Power BI:
+- Developed an interactive dashboard using transaction and customer data from a SQL database, to provide real-time insights. 
+- Streamlined data processing & analysis to monitor key performance metrics and trends.
+- Shared actionable insights with stakeholders based on dashboard findings to support decision-making processes.
