@@ -43,3 +43,13 @@ To develop a comprehensive credit card weekly dashboard that provides real-time 
 # Credit Card Transaction Report
 <img width="609" height="344" alt="Screenshot_Credit_Card_Report" src="https://github.com/user-attachments/assets/0ea795f0-bf4b-46be-a8c5-327e1d52b4e8" />
 
+
+# Project Conclusion (Points)
+- Successfully developed a Credit Card Financial Weekly Dashboard using Power BI.
+- Integrated and processed data from SQL database for accurate analysis.
+- Used DAX formulas to create calculated columns like revenue, age group, and income group.
+- Dashboard provides real-time insights into revenue, transactions, and customer behavior.
+- Identified key trends such as increase in weekly revenue and transaction activity.
+- Highlighted important business metrics like activation rate and delinquency rate.
+- Enabled better decision-making by presenting clear and interactive visualizations.
+- The project demonstrates strong skills in data analysis, data visualization, and business intelligence.
